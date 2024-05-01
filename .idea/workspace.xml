@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b3fcb1c-a18e-447b-8d43-9cd52d579039" name="Changes" comment="done">
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/hrFrontend/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/hrFrontend/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/hrFrontend/EntryPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/hrFrontend/EntryPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/hrFrontend/Signup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/hrFrontend/Signup.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +198,7 @@
       <workItem from="1714463473223" duration="12416000" />
       <workItem from="1714541743132" duration="2035000" />
       <workItem from="1714543797641" duration="3156000" />
-      <workItem from="1714547162144" duration="1566000" />
+      <workItem from="1714547162144" duration="1840000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <option name="closed" value="true" />
