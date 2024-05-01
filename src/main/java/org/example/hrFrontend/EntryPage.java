@@ -49,6 +49,9 @@ public class EntryPage extends JFrame {
                 mainPanel
         );
 
+        // Add horizontal divider
+        mainPanel.add(new JSeparator(SwingConstants.HORIZONTAL));
+
         // Create button panel
         EntryPage.createButtonPanel(
                 new HashMap<String, Function<ActionEvent, Void>>() {
@@ -113,7 +116,6 @@ public class EntryPage extends JFrame {
             button.addActionListener((eventAction) -> buttonsInfo.get(text).apply(eventAction));
             buttonPanel.add(button);
             if (counter < buttonsNumber - 1) {
-                System.out.println("Counter: " + counter);
                 buttonPanel.add(Box.createHorizontalStrut(20));
             }
             counter++;

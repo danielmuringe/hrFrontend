@@ -31,6 +31,5 @@ public class Signup extends EntryPage {
         });
 
         setVisible(true);
-
     }
 }
