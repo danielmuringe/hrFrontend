@@ -1,12 +1,13 @@
 org/example/hrFrontend/Signup$4.class
+org/example/hrFrontend/EntryPage.class
+org/example/hrFrontend/Login.class
+org/example/hrFrontend/Login$3.class
 org/example/hrFrontend/Signup$1.class
 org/example/hrFrontend/Login$2.class
-org/example/hrFrontend/Login$4.class
+org/example/hrFrontend/EntryPage$FieldType.class
 org/example/hrFrontend/Signup$3.class
 org/example/hrFrontend/Login$1.class
-org/example/hrFrontend/Login.class
 org/example/hrFrontend/Signup$2.class
 org/example/hrFrontend/App.class
-org/example/hrFrontend/Login$3.class
 org/example/hrFrontend/App$1.class
 org/example/hrFrontend/Signup.class

@@ -12,9 +12,7 @@ public class App {
             add(new String[]{"username2", "password2"});
         }};
 
-        Login login = new Login(
-                userData, new JFrame(), new JFrame()
-        );
-
+        Login login = new Login(userData, new JFrame(), new JFrame());
+        login.setVisible(true);
     }
 }
