@@ -5,6 +5,7 @@
 plugins {
     `java-library`
     `maven-publish`
+    application
 }
 
 repositories {
@@ -27,4 +28,12 @@ publishing {
     publications.create<MavenPublication>("maven") {
         from(components["java"])
     }
+}
+
+application {
+    mainClass.set("org.example.hrFrontend.App") // replace with your main class
+}
+
+tasks.named<JavaExec>("run") {
+    standardInput = System.`in`
 }

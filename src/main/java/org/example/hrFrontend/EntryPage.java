@@ -65,7 +65,7 @@ public class EntryPage extends JFrame {
                         put("Close", (eventAction) -> {
                             int exitConfirmation = JOptionPane.showConfirmDialog(parentComponent, "Are you sure you want to exit the application?", "Confirm exit", JOptionPane.YES_NO_OPTION);
                             if (exitConfirmation == JOptionPane.YES_OPTION) {
-                                parentComponent.dispose();
+                                System.exit(0);
                             }
                             return null;
                         }); // Close button
