@@ -50,7 +50,7 @@ public class App {
                 emptySignupNextPage,
                 emptyLoginNextPage
         );
-        signup.dispose();
+        signup.setVisible(true);
 
         Login login = new Login(
                 userData,

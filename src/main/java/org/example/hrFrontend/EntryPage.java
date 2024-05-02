@@ -32,7 +32,7 @@ public class EntryPage extends JFrame {
         }};
 
         // Create title label
-        EntryPage.createTitleLabel(
+        createTitleLabel(
                 "System " + title,
                 mainPanel
         );
@@ -53,7 +53,7 @@ public class EntryPage extends JFrame {
         mainPanel.add(new JSeparator(SwingConstants.HORIZONTAL));
 
         // Create button panel
-        EntryPage.createButtonPanel(
+        createButtonPanel(
                 new HashMap<String, Function<ActionEvent, Void>>() {
                     {
                         put("Reset", (eventAction) -> {
@@ -63,7 +63,10 @@ public class EntryPage extends JFrame {
                         }); // Reset button
                         put(title, (event) -> checkerFunction.apply(parentComponent)); // Login/Sign Up button
                         put("Close", (eventAction) -> {
-                            parentComponent.dispose();
+                            int exitConfirmation = JOptionPane.showConfirmDialog(parentComponent, "Are you sure you want to exit the application?", "Confirm exit", JOptionPane.YES_NO_OPTION);
+                            if (exitConfirmation == JOptionPane.YES_OPTION) {
+                                parentComponent.dispose();
+                            }
                             return null;
                         }); // Close button
                     }

@@ -5,8 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b3fcb1c-a18e-447b-8d43-9cd52d579039" name="Changes" comment="done">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/App$2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/App$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/App$3$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/App$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/EntryPage$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/EntryPage$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/EntryPage$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/EntryPage$EntryPageType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/hrFrontend/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/hrFrontend/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/hrFrontend/EntryPage$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/hrFrontend/EntryPage$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/hrFrontend/EntryPage$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/hrFrontend/EntryPage$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/hrFrontend/EntryPage$EntryPageType.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/hrFrontend/EntryPage$EntryPageType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/hrFrontend/EntryPage$FieldType.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/hrFrontend/EntryPage$FieldType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/hrFrontend/EntryPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/hrFrontend/EntryPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/hrFrontend/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/hrFrontend/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/hrFrontend/Signup.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/hrFrontend/Signup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/App$1.class.uniqueId2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/App$2.class.uniqueId3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/App$3.class.uniqueId1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/App.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/hrFrontend/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/hrFrontend/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/hrFrontend/EntryPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/hrFrontend/EntryPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/hrFrontend/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/hrFrontend/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/hrFrontend/Signup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/hrFrontend/Signup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/App$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/App$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/EntryPage$FieldType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/EntryPage$FieldType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/EntryPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/EntryPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/Login$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/Login$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/Login$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/Signup$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/Signup$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/Signup$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/Signup$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/Signup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/hrFrontend/Signup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +245,10 @@
       <workItem from="1714463473223" duration="12416000" />
       <workItem from="1714541743132" duration="2035000" />
       <workItem from="1714543797641" duration="3156000" />
-      <workItem from="1714547162144" duration="1840000" />
+      <workItem from="1714547162144" duration="1888000" />
+      <workItem from="1714588789303" duration="692000" />
+      <workItem from="1714647735944" duration="2460000" />
+      <workItem from="1714651121806" duration="911000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <option name="closed" value="true" />
@@ -232,6 +282,18 @@
   </component>
   <component name="WfRunsListSearchHistory"><![CDATA[{
   "history": [
+    {
+      "branch": "main",
+      "currentBranchFilter": true
+    },
+    {
+      "branch": "main",
+      "currentBranchFilter": true
+    },
+    {
+      "branch": "main",
+      "currentBranchFilter": true
+    },
     {
       "branch": "main",
       "currentBranchFilter": true

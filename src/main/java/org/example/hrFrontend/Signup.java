@@ -24,7 +24,7 @@ public class Signup extends EntryPage {
                 parentComponent.dispose();
                 ((JFrame) signupNextPage).setVisible(true);
             } else {
-                JOptionPane.showMessageDialog(parentComponent, "Username already exists.");
+                JOptionPane.showMessageDialog(parentComponent, "Username already exists.", "Invalid username", JOptionPane.ERROR_MESSAGE);
             }
             return null;
 

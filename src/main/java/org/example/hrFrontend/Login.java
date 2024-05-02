@@ -25,7 +25,7 @@ public class Login extends EntryPage {
                 parentComponent.dispose();
                 ((JFrame) loginNextPage).setVisible(true);
             } else {
-                JOptionPane.showMessageDialog(parentComponent, "Invalid username or password.");
+                JOptionPane.showMessageDialog(parentComponent, "Invalid username or password.", "Invalid Login Details", JOptionPane.ERROR_MESSAGE);
             }
             return null;
         });
